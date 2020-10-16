@@ -1,3 +1,3 @@
 // The token below is for internal use only - consider getting your own token!
-// This token is valid until 2020-12-11T20:39:10Z and was auto-generated @ 2020-10-15T21:39:10Z.
-var token = '5EA26FC4-6465-4513-B9D0-21B217527953';
+// This token is valid until 2021-01-08T21:39:26Z and was auto-generated @ 2020-10-16T21:39:27Z.
+var token = '269991D9-FCB8-41ED-AA95-A8339F3AE83C';
